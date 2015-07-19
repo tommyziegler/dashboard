@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/synyx/dashboard.svg?branch=master)](https://travis-ci.org/synyx/dashboard) [![devDependency Status](https://david-dm.org/synyx/dashboard/dev-status.svg)](https://david-dm.org/synyx/dashboard#info=devDependencies)
+[![Build Status](https://travis-ci.org/tommyziegler/dashboard.svg?branch=master)](https://travis-ci.org/tommyziegler/dashboard) [![devDependency Status](https://david-dm.org/tommyziegler/dashboard/dev-status.svg)](https://david-dm.org/tommyziegler/dashboard#info=devDependencies)
 
 # Dashboard
 
 
-## Demo
+## Live System
 
-http://synyx.github.io/dashboard/
+http://tommyziegler.github.io/tziegler-dashboard/
 
 
 ## Installation
